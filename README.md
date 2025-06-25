@@ -34,19 +34,6 @@
     <img align="left" alt="Python" width="120px"
       src="https://img.shields.io/badge/Python-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <br/><br/>
-  <a href="https://www.docker.com/" title="Docker">
-    <img align="left" alt="Docker" width="120px"
-      src="https://img.shields.io/badge/Docker-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  </a>
-  <a href="https://kubernetes.io/" title="Kubernetes">
-    <img align="left" alt="Kubernetes" width="120px"
-      src="https://img.shields.io/badge/Kubernetes-K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  </a>
-  <a href="https://go.dev/" title="Go">
-    <img align="left" alt="Go" width="120px"
-      src="https://img.shields.io/badge/Go-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  </a>
 </div>
 <br clear="left"/>
 
