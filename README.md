@@ -16,7 +16,7 @@ Bienvenido a mi perfil de GitHub.
 
 ## Proyectos Destacados
 
-- [IA CHAT](#) — Un proyecto de chatbot basado en inteligencia artificial que responde preguntas y asiste a los usuarios en tiempo real.
+- [IA_CHAT](#) — Un proyecto de chatbot basado en inteligencia artificial que responde preguntas y asiste a los usuarios en tiempo real.
 
 ## Contacto
 
