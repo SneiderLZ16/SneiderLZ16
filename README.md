@@ -31,7 +31,7 @@
 | Proyecto | Descripción |
 | -------- | ----------- | 
 | [MiPortafolio](https://github.com/SneiderLZ16/Portafolio) | Web personal + blog |
-
+| [API-CHAT](https://github.com/SneiderLZ16/Chat)|API Interactiva IA + JS|
 ---
 
 ## 📊 Mis Estadísticas
