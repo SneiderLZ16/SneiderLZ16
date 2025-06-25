@@ -18,12 +18,38 @@
 
 ## 🛠 Tech Stack
 <div align="left">
-  <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
-  <img align="left" alt="SQL"        width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" />
-  <img align="left" alt="React"      width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />
-  <img align="left" alt="Python"     width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" title="JavaScript">
+    <img align="left" alt="JavaScript" width="120px"
+      src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://www.mysql.com/" title="SQL">
+    <img align="left" alt="SQL" width="120px"
+      src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://es.reactjs.org/" title="React">
+    <img align="left" alt="React" width="120px"
+      src="https://img.shields.io/badge/React-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/" title="Python">
+    <img align="left" alt="Python" width="120px"
+      src="https://img.shields.io/badge/Python-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <br/><br/>
+  <a href="https://www.docker.com/" title="Docker">
+    <img align="left" alt="Docker" width="120px"
+      src="https://img.shields.io/badge/Docker-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://kubernetes.io/" title="Kubernetes">
+    <img align="left" alt="Kubernetes" width="120px"
+      src="https://img.shields.io/badge/Kubernetes-K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  </a>
+  <a href="https://go.dev/" title="Go">
+    <img align="left" alt="Go" width="120px"
+      src="https://img.shields.io/badge/Go-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  </a>
 </div>
 <br clear="left"/>
+
 
 ---
 
