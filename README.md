@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**SneiderLZ16/SneiderLZ16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Apasionado por la tecnología y el desarrollo de software.
+- 🚀 Siempre aprendiendo nuevas herramientas y lenguajes.
+- 🤝 Colaborando en proyectos open source.
+
+## Tecnologías
+
+- **Lenguajes:** JavaScript, Python, Java, HTML, CSS.
+- **Frameworks:** React.
+- **Herramientas:** Git, VS Code.
+
+## Proyectos Destacados
+
+- [IA CHAT](#) — Un proyecto de chatbot basado en inteligencia artificial que responde preguntas y asiste a los usuarios en tiempo real.
+
+## Contacto
+
+- [Correo electrónico](mailto:sneiderlondono0216@gmail.com)
+
+¡Gracias por visitar mi perfil!
