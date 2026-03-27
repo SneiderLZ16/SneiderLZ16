@@ -14,9 +14,9 @@
 ## 🚀 Sobre mí 
 
 - 🎓 Ingeniería de Sistemas — Corporación Universitaria Remington  
-- 🧠 Enfocado en: **C#, .NET, ASP.NET Core, APIs REST**
-- ⚙️ Experiencia desarrollando **backends completos + frontend + móvil**
-- 🌱 Actualmente profundizando en: **arquitectura, buenas prácticas y sistemas escalables**
+- ⚙️ Especializado en: **C#, .NET, ASP.NET Core, APIs REST**
+- 🧠 Experiencia desarrollando sistemas completos (**backend + frontend + móvil**)
+- 🌱 En constante aprendizaje sobre arquitectura, buenas prácticas y escalabilidad
 - 💬 Pregúntame sobre: **.NET, APIs, SQL, React**
 
 ---
